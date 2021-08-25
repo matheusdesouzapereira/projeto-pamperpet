@@ -3,7 +3,7 @@
 Sobre o projeto:
 - Esse é um projeto real para a empresa Pamperpet;
 - Participei da equipe que criou o site quando ele ainda tinha o nome Pet Lovers You, depois foi modificado para Pamperpet;
-- Nesse trabalho estive em grande maior parte do tempo como designer web desenhando as páginas, modelando as imagens dos produtos e criando as planilhas em CSV para subir os produtos para o site.
+- Nesse trabalho, na maior parte do tempo, estive como designer web desenhando as páginas, modelando as imagens dos produtos e criando as planilhas em CSV para subir os produtos para o site.
 
 # Ferramenta de edição:
 - Photoshop;
